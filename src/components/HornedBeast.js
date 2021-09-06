@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import Main from './Main';
 
 class HornedBeast extends Component {
 
@@ -7,7 +6,7 @@ class HornedBeast extends Component {
         return (
             <div>
                 <h2>Title:{this.props.title}</h2>
-                <img src={this.props.imgUrl} alt="beasts" ></img>
+                <img src={this.props.imgSrc} alt={this.props.title} />
                 <p>Description:{this.props.description}</p>
             </div>
         )
