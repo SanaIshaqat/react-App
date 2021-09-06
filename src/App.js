@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div>
         <Header/>
-        <Main/>
+        <Main intVote={0}/>
         <Footer/>
       </div>
     )
