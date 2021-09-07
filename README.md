@@ -70,12 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-Number and name of feature: ________________________________
+Number and name of feature: 3 | rendering object from data in json file, create a state for a changing counter for votes, passing props to render from items inside an array of objects.
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 4 Hours
 
-Start time: _____
+Start time: 1pm
 
-Finish time: _____
+Finish time: 5pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 5 Hours
