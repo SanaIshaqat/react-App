@@ -6,20 +6,7 @@ import data from './data.json'
 
 class Main extends Component {
     
-    constructor(props) {
-        super(props);
-        this.state = {
-            stateVote: this.props.intVote,
-        };
-        voteCount = () => {
-            this.getState({
-                vote: this.state.stateVote + 1
-            })
-        }
-    }
-    
-
-    
+  
 
 render() {
     
