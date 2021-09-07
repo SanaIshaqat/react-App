@@ -12,14 +12,20 @@ render() {
     
     
     return (
-        <div>
+        <div className="row">
             {
                 data.map(ele => {
-                    return <HornedBeast title={ele.title} description={ele.description} image_url={ele.image_url} />
+                    return <HornedBeast handleClose={this.props.handleClose}
+                    handleOpen={this.props.handleOpen}
+                     title={ele.title} 
+                     description={ele.description} 
+                     image_url={ele.image_url} 
+                     keyword={ele.keyword} 
+                     horns={ele.horns} />
                 })
             }
             
-            {/* <HornedBeast totalVotes={this.state.stateVote}/> */}
+            
             </div>
     )
 }

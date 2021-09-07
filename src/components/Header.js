@@ -4,7 +4,7 @@ class Header extends Component {
     render() {
         return (
             <div>
-                <h1>This Is The Title!</h1>
+                <h1>Horned Beasts Gallery!</h1>
             </div>
         )
     }
