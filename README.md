@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
+lab 02
 Number and name of feature: 3 | rendering object from data in json file, create a state for a changing counter for votes, passing props to render from items inside an array of objects.
 
 Estimate of time needed to complete: 4 Hours
@@ -80,7 +80,7 @@ Finish time: 5pm
 
 Actual time needed to complete: 5 Hours
 
-
+lab 03
 Number and name of feature: 6 | bootstap react library, Card, navBar , Button (with functions to handle buttons),  Modal shows image description and title, grid.
 
 Estimate of time needed to complete: 5 Hours
@@ -90,3 +90,14 @@ Start time: 1pm
 Finish time: 5pm
 
 Actual time needed to complete: 6 Hours
+
+lab 04
+Number and name of feature: 2 | form, filter array based on user input to display/render certain elements only from the original array's objects.
+
+Estimate of time needed to complete: 4 Hours
+
+Start time: 1pm
+
+Finish time: 4pm
+
+Actual time needed to complete: 3 Hours
