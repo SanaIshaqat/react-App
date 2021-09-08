@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import HornedBeast from './HornedBeast'
-import data from './data.json'
 
 
 
@@ -10,11 +9,14 @@ class Main extends Component {
 
 render() {
     
-    
+    console.log(this.props.filteredData);
     return (
+        // {
+        //     this.state.hornsNum
+        // }
         <div className="row">
             {
-                data.map(ele => {
+                this.props.filteredData.map(ele => {
                     return <HornedBeast handleClose={this.props.handleClose}
                     handleOpen={this.props.handleOpen}
                      title={ele.title} 
