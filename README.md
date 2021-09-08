@@ -79,3 +79,14 @@ Start time: 1pm
 Finish time: 5pm
 
 Actual time needed to complete: 5 Hours
+
+
+Number and name of feature: 6 | bootstap react library, Card, navBar , Button (with functions to handle buttons),  Modal shows image description and title, grid.
+
+Estimate of time needed to complete: 5 Hours
+
+Start time: 1pm
+
+Finish time: 5pm
+
+Actual time needed to complete: 6 Hours

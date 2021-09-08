@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import{
+import {
     Modal,
     Button,
 } from 'react-bootstrap';
@@ -15,7 +15,7 @@ class HbModal extends Component {
                 <img src={this.props.image_url} alt={this.props.title} />
                 <Modal.Body>{this.props.description}</Modal.Body>
                 <Modal.Footer>
-                    
+
                     <Button variant="info" onClick={this.props.handleClose}>
                         Close
                     </Button>
